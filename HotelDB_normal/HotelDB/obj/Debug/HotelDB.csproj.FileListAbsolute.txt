@@ -1,0 +1,101 @@
+D:\Developer\Project\DADADADADAD\HotelDB\HotelDB\bin\Debug\HotelDB.exe.config
+D:\Developer\Project\DADADADADAD\HotelDB\HotelDB\bin\Debug\HotelDB.exe
+D:\Developer\Project\DADADADADAD\HotelDB\HotelDB\bin\Debug\HotelDB.pdb
+D:\Developer\Project\DADADADADAD\HotelDB\HotelDB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Developer\Project\DADADADADAD\HotelDB\HotelDB\bin\Debug\Npgsql.dll
+D:\Developer\Project\DADADADADAD\HotelDB\HotelDB\bin\Debug\System.Buffers.dll
+D:\Developer\Project\DADADADADAD\HotelDB\HotelDB\bin\Debug\System.Memory.dll
+D:\Developer\Project\DADADADADAD\HotelDB\HotelDB\bin\Debug\System.Numerics.Vectors.dll
+D:\Developer\Project\DADADADADAD\HotelDB\HotelDB\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Developer\Project\DADADADADAD\HotelDB\HotelDB\bin\Debug\System.Text.Encodings.Web.dll
+D:\Developer\Project\DADADADADAD\HotelDB\HotelDB\bin\Debug\System.Text.Json.dll
+D:\Developer\Project\DADADADADAD\HotelDB\HotelDB\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Developer\Project\DADADADADAD\HotelDB\HotelDB\bin\Debug\System.ValueTuple.dll
+D:\Developer\Project\DADADADADAD\HotelDB\HotelDB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Developer\Project\DADADADADAD\HotelDB\HotelDB\bin\Debug\Npgsql.pdb
+D:\Developer\Project\DADADADADAD\HotelDB\HotelDB\bin\Debug\Npgsql.xml
+D:\Developer\Project\DADADADADAD\HotelDB\HotelDB\bin\Debug\System.Buffers.xml
+D:\Developer\Project\DADADADADAD\HotelDB\HotelDB\bin\Debug\System.Memory.xml
+D:\Developer\Project\DADADADADAD\HotelDB\HotelDB\bin\Debug\System.Numerics.Vectors.xml
+D:\Developer\Project\DADADADADAD\HotelDB\HotelDB\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Developer\Project\DADADADADAD\HotelDB\HotelDB\bin\Debug\System.Text.Encodings.Web.xml
+D:\Developer\Project\DADADADADAD\HotelDB\HotelDB\bin\Debug\System.Text.Json.xml
+D:\Developer\Project\DADADADADAD\HotelDB\HotelDB\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Developer\Project\DADADADADAD\HotelDB\HotelDB\bin\Debug\System.ValueTuple.xml
+D:\Developer\Project\DADADADADAD\HotelDB\HotelDB\obj\Debug\HotelDB.csprojAssemblyReference.cache
+D:\Developer\Project\DADADADADAD\HotelDB\HotelDB\obj\Debug\HotelDB.Authorization.resources
+D:\Developer\Project\DADADADADAD\HotelDB\HotelDB\obj\Debug\HotelDB.Main_Window.resources
+D:\Developer\Project\DADADADADAD\HotelDB\HotelDB\obj\Debug\HotelDB.Properties.Resources.resources
+D:\Developer\Project\DADADADADAD\HotelDB\HotelDB\obj\Debug\HotelDB.Registration.resources
+D:\Developer\Project\DADADADADAD\HotelDB\HotelDB\obj\Debug\HotelDB.csproj.GenerateResource.cache
+D:\Developer\Project\DADADADADAD\HotelDB\HotelDB\obj\Debug\HotelDB.csproj.CoreCompileInputs.cache
+D:\Developer\Project\DADADADADAD\HotelDB\HotelDB\obj\Debug\HotelDB.csproj.CopyComplete
+D:\Developer\Project\DADADADADAD\HotelDB\HotelDB\obj\Debug\HotelDB.exe
+D:\Developer\Project\DADADADADAD\HotelDB\HotelDB\obj\Debug\HotelDB.pdb
+C:\Users\Nelu\Desktop\HotelDB\HotelDB\bin\Debug\HotelDB.exe.config
+C:\Users\Nelu\Desktop\HotelDB\HotelDB\bin\Debug\HotelDB.exe
+C:\Users\Nelu\Desktop\HotelDB\HotelDB\bin\Debug\HotelDB.pdb
+C:\Users\Nelu\Desktop\HotelDB\HotelDB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nelu\Desktop\HotelDB\HotelDB\bin\Debug\Npgsql.dll
+C:\Users\Nelu\Desktop\HotelDB\HotelDB\bin\Debug\System.Buffers.dll
+C:\Users\Nelu\Desktop\HotelDB\HotelDB\bin\Debug\System.Memory.dll
+C:\Users\Nelu\Desktop\HotelDB\HotelDB\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Nelu\Desktop\HotelDB\HotelDB\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nelu\Desktop\HotelDB\HotelDB\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Nelu\Desktop\HotelDB\HotelDB\bin\Debug\System.Text.Json.dll
+C:\Users\Nelu\Desktop\HotelDB\HotelDB\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Nelu\Desktop\HotelDB\HotelDB\bin\Debug\System.ValueTuple.dll
+C:\Users\Nelu\Desktop\HotelDB\HotelDB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Nelu\Desktop\HotelDB\HotelDB\bin\Debug\Npgsql.pdb
+C:\Users\Nelu\Desktop\HotelDB\HotelDB\bin\Debug\Npgsql.xml
+C:\Users\Nelu\Desktop\HotelDB\HotelDB\bin\Debug\System.Buffers.xml
+C:\Users\Nelu\Desktop\HotelDB\HotelDB\bin\Debug\System.Memory.xml
+C:\Users\Nelu\Desktop\HotelDB\HotelDB\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Nelu\Desktop\HotelDB\HotelDB\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Nelu\Desktop\HotelDB\HotelDB\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Nelu\Desktop\HotelDB\HotelDB\bin\Debug\System.Text.Json.xml
+C:\Users\Nelu\Desktop\HotelDB\HotelDB\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Nelu\Desktop\HotelDB\HotelDB\bin\Debug\System.ValueTuple.xml
+C:\Users\Nelu\Desktop\HotelDB\HotelDB\obj\Debug\HotelDB.csprojAssemblyReference.cache
+C:\Users\Nelu\Desktop\HotelDB\HotelDB\obj\Debug\HotelDB.Authorization.resources
+C:\Users\Nelu\Desktop\HotelDB\HotelDB\obj\Debug\HotelDB.Main_Window.resources
+C:\Users\Nelu\Desktop\HotelDB\HotelDB\obj\Debug\HotelDB.Properties.Resources.resources
+C:\Users\Nelu\Desktop\HotelDB\HotelDB\obj\Debug\HotelDB.Registration.resources
+C:\Users\Nelu\Desktop\HotelDB\HotelDB\obj\Debug\HotelDB.csproj.GenerateResource.cache
+C:\Users\Nelu\Desktop\HotelDB\HotelDB\obj\Debug\HotelDB.csproj.CoreCompileInputs.cache
+C:\Users\Nelu\Desktop\HotelDB\HotelDB\obj\Debug\HotelDB.csproj.CopyComplete
+C:\Users\Nelu\Desktop\HotelDB\HotelDB\obj\Debug\HotelDB.exe
+C:\Users\Nelu\Desktop\HotelDB\HotelDB\obj\Debug\HotelDB.pdb
+C:\чет хз\отель\HotelDB_normal\HotelDB\bin\Debug\HotelDB.exe.config
+C:\чет хз\отель\HotelDB_normal\HotelDB\bin\Debug\HotelDB.exe
+C:\чет хз\отель\HotelDB_normal\HotelDB\bin\Debug\HotelDB.pdb
+C:\чет хз\отель\HotelDB_normal\HotelDB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\чет хз\отель\HotelDB_normal\HotelDB\bin\Debug\Npgsql.dll
+C:\чет хз\отель\HotelDB_normal\HotelDB\bin\Debug\System.Buffers.dll
+C:\чет хз\отель\HotelDB_normal\HotelDB\bin\Debug\System.Memory.dll
+C:\чет хз\отель\HotelDB_normal\HotelDB\bin\Debug\System.Numerics.Vectors.dll
+C:\чет хз\отель\HotelDB_normal\HotelDB\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\чет хз\отель\HotelDB_normal\HotelDB\bin\Debug\System.Text.Encodings.Web.dll
+C:\чет хз\отель\HotelDB_normal\HotelDB\bin\Debug\System.Text.Json.dll
+C:\чет хз\отель\HotelDB_normal\HotelDB\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\чет хз\отель\HotelDB_normal\HotelDB\bin\Debug\System.ValueTuple.dll
+C:\чет хз\отель\HotelDB_normal\HotelDB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\чет хз\отель\HotelDB_normal\HotelDB\bin\Debug\Npgsql.pdb
+C:\чет хз\отель\HotelDB_normal\HotelDB\bin\Debug\Npgsql.xml
+C:\чет хз\отель\HotelDB_normal\HotelDB\bin\Debug\System.Buffers.xml
+C:\чет хз\отель\HotelDB_normal\HotelDB\bin\Debug\System.Memory.xml
+C:\чет хз\отель\HotelDB_normal\HotelDB\bin\Debug\System.Numerics.Vectors.xml
+C:\чет хз\отель\HotelDB_normal\HotelDB\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\чет хз\отель\HotelDB_normal\HotelDB\bin\Debug\System.Text.Encodings.Web.xml
+C:\чет хз\отель\HotelDB_normal\HotelDB\bin\Debug\System.Text.Json.xml
+C:\чет хз\отель\HotelDB_normal\HotelDB\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\чет хз\отель\HotelDB_normal\HotelDB\bin\Debug\System.ValueTuple.xml
+C:\чет хз\отель\HotelDB_normal\HotelDB\obj\Debug\HotelDB.csprojAssemblyReference.cache
+C:\чет хз\отель\HotelDB_normal\HotelDB\obj\Debug\HotelDB.Authorization.resources
+C:\чет хз\отель\HotelDB_normal\HotelDB\obj\Debug\HotelDB.Main_Window.resources
+C:\чет хз\отель\HotelDB_normal\HotelDB\obj\Debug\HotelDB.Properties.Resources.resources
+C:\чет хз\отель\HotelDB_normal\HotelDB\obj\Debug\HotelDB.Registration.resources
+C:\чет хз\отель\HotelDB_normal\HotelDB\obj\Debug\HotelDB.csproj.GenerateResource.cache
+C:\чет хз\отель\HotelDB_normal\HotelDB\obj\Debug\HotelDB.csproj.CopyComplete
+C:\чет хз\отель\HotelDB_normal\HotelDB\obj\Debug\HotelDB.exe
+C:\чет хз\отель\HotelDB_normal\HotelDB\obj\Debug\HotelDB.pdb
