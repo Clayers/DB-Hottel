@@ -1,5 +1,5 @@
-<h1>DB-Hottel
+=DB-Hottel=
   
-<h4>Приложение базы данных отеля c СУБД PostgreSQL на WindowsForm.
+<h1>Приложение базы данных отеля c СУБД PostgreSQL на WindowsForm.
 
 
