@@ -1,3 +1,3 @@
 <h1>DB-Hottel
   
-Приложение базы данных отеля c СУБД PostgreSQL на WindowsForm.
+<h2>Приложение базы данных отеля c СУБД PostgreSQL на WindowsForm.
